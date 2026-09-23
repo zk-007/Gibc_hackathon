@@ -1,0 +1,4 @@
+id,name,email,company,consentMarketing,discount
+ali,Ali,ali@northstar.co,Northstar Studio,true,10
+jo,Jo,jo@atelierform.co,Atelier Form,true,
+maya,Maya,maya@orbitgoods.com,Orbit Goods,false,

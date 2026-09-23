@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+dist
+coverage
+*.log
+.env
+.env*.local
+data/followups.json
+data/runs.json
+data/audit.json
+next-env.d.ts
+tsconfig.tsbuildinfo
